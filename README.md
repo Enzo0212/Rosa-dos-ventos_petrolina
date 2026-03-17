@@ -32,4 +32,4 @@ O projeto permite avaliar padrões de vento e auxiliar na análise de potencial 
 1. Instale Ruby 
 2. Execute:
 
-ruby src/main.rb
+ruby src/rosa_dos_ventos_main.rb
